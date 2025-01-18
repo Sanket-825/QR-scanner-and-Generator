@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QR Code Scanner</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Material Icon CDN link  -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="toggle-box">
+            <input type="checkbox" class="checkbox">
+            <div class="checkbox-circle"></div>
+            <i class="material-icons" id="qr-code-icon">qr_code</i>
+            <i class="material-icons" id="qr-scanner-icon">qr_code_scanner</i>
+        </div>
+        <div class="qr-code-generator-box">
+            <span class="qr-code-generator-title">
+                <i class="material-icons">qr_code</i>
+                QR Code Generator
+            </span>
+            <div class="qr-code-box">
+                <div class="qr-code">
+                    <img src="" alt="">
+                </div>
+            </div>
+            <input type="text" class="qr-code-input" placeholder="Enter text or Url">
+            <button class="generator-btn">Generate QR Code</button>
+        </div>
+        <div class="qr-code-scanner-box">
+            <span class="qr-code-generator-title">
+                <i class="material-icons">qr_code</i>
+                QR Code Scanner
+            </span>
+            <div class="border-corners"></div>
+            <div class="scanner-box">
+                <div class="scan-animation"></div>
+                <video src="" id="preview"></video>
+            </div>
+            <textarea class="qr-scan-value" placeholder="Your QR Code Value Show Here..." readonly></textarea>
+            <button class="copy-btn">Copy To Clipboard</button>
+        </div>
+    </div>
+
+    <!-- Instascan CDN Link  -->
+    <script type="text/javascript" src="https://rawgit.com/schmich/instascan-builds/master/instascan.min.js"></script>
+
+    <script src="app.js"></script>
+</body>
+</html>
