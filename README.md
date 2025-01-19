@@ -9,6 +9,8 @@ This repository contains the code for a web application that can generate and sc
 <h3>4.Copy the decoded content to the clipboard</h3>
 <h3>5.Technologies used: Javascript, CSS, Html</h3>
 
+Here's the link : https://sanket-825.github.io/QR-scanner-and-Generator
+
 ![Screenshot (169)](https://github.com/user-attachments/assets/f8d622d4-8fed-4940-8a7d-1954c90cdc90)
 ![Screenshot (173)](https://github.com/user-attachments/assets/7e976019-1788-427e-bc00-a92e0dba1cf7)
 ![Screenshot (172)](https://github.com/user-attachments/assets/9e00fe05-07a9-422b-9bab-cd1dd36ef2f2)
