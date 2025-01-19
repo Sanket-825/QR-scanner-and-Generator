@@ -4,11 +4,11 @@ This repository contains the code for a web application that can generate and sc
 
 # <h3>Key features:</h3>
 
-# <h3>Generate QR codes from text or URLs</h3>
-# <h3>Scan QR codes from a webcam</h3>
-# <h3>Display the decoded content of scanned QR codes</h3>
-# <h3>Copy the decoded content to the clipboard</h3>
-# <h3>Technologies used:</h3>
+<h3>Generate QR codes from text or URLs</h3>
+<h3>Scan QR codes from a webcam</h3>
+<h3>Display the decoded content of scanned QR codes</h3>
+<h3>Copy the decoded content to the clipboard</h3>
+<h3>Technologies used:</h3>
 
 # <h3>CSS</h3>
 # <h3>JavaScript</h3>
