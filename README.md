@@ -3,17 +3,11 @@
 This repository contains the code for a web application that can generate and scan QR codes. Users can enter text or a URL into a field, and the application will generate a QR code that can be scanned by a smartphone or other device. The application can also scan QR codes from a webcam and display the decoded content.
 
 # <h3>Key features:</h3>
-
-<h3>Generate QR codes from text or URLs</h3>
-<h3>Scan QR codes from a webcam</h3>
-<h3>Display the decoded content of scanned QR codes</h3>
-<h3>Copy the decoded content to the clipboard</h3>
-<h3>Technologies used:</h3>
-
-# <h3>CSS</h3>
-# <h3>JavaScript</h3>
-# <h3>HTML</h3>
-# <h3>Instascan.js (for QR code scanning)</h3>
+<h3>1.Generate QR codes from text or URLs</h3>
+<h3>2.Scan QR codes from a webcam</h3>
+<h3>3.Display the decoded content of scanned QR codes</h3>
+<h3>4.Copy the decoded content to the clipboard</h3>
+<h3>5.Technologies used: Javascript, CSS, Html</h3>
 
 ![Screenshot (169)](https://github.com/user-attachments/assets/f8d622d4-8fed-4940-8a7d-1954c90cdc90)
 ![Screenshot (173)](https://github.com/user-attachments/assets/7e976019-1788-427e-bc00-a92e0dba1cf7)
